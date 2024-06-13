@@ -1,0 +1,24 @@
+{
+  "name" : "Default Kaoto supported Camel Upstream Catalogs",
+  "definitions" : [ {
+    "name" : "Camel Main 4.6.0",
+    "version" : "4.6.0",
+    "runtime" : "Main",
+    "fileName" : "camel-main/4.6.0/index-4ff9285788c86609c2b972a7a63b7aeb.json"
+  }, {
+    "name" : "Camel Main 4.4.0",
+    "version" : "4.4.0",
+    "runtime" : "Main",
+    "fileName" : "camel-main/4.4.0/index-972a5829478a1b935f27bef2c8041b85.json"
+  }, {
+    "name" : "Camel Quarkus 3.8.0",
+    "version" : "3.8.0",
+    "runtime" : "Quarkus",
+    "fileName" : "camel-quarkus/3.8.0/index-8e3f7bf954d87c436c14c66f3ec79c54.json"
+  }, {
+    "name" : "Camel Springboot 4.6.0",
+    "version" : "4.6.0",
+    "runtime" : "SpringBoot",
+    "fileName" : "camel-springboot/4.6.0/index-68c6d9c62f6dac0c5e647faaa02ba984.json"
+  } ]
+}
