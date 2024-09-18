@@ -61,9 +61,9 @@
     "runtime" : "SpringBoot",
     "fileName" : "camel-springboot/4.4.0/index-24ae530e97fc34af22324219bf81fbe5.json"
   }, {
-    "name" : "Camel SpringBoot 4.4.0.redhat-00014",
-    "version" : "4.4.0.redhat-00014",
+    "name" : "Camel SpringBoot 4.4.0.redhat-00033",
+    "version" : "4.4.0.redhat-00033",
     "runtime" : "SpringBoot",
-    "fileName" : "camel-springboot/4.4.0.redhat-00014/index-c869f1bf6609eb25d0540362080f79c4.json"
+    "fileName" : "camel-springboot/4.4.0.redhat-00033/index-21c89acef23cf9e91b9f9d4a6f942c16.json"
   } ]
 }
