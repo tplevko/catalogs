@@ -41,29 +41,29 @@
     "runtime" : "Quarkus",
     "fileName" : "camel-quarkus/3.8.0.redhat-00006/index-9e17114b9bf8e1d325774cbfebace176.json"
   }, {
-    "name" : "Camel SpringBoot 4.8.0",
+    "name" : "Camel Spring Boot 4.8.0",
     "version" : "4.8.0",
-    "runtime" : "SpringBoot",
+    "runtime" : "Spring Boot",
     "fileName" : "camel-springboot/4.8.0/index-5a544e89b3ce8c6d5a92885f7de04d25.json"
   }, {
-    "name" : "Camel SpringBoot 4.7.0",
+    "name" : "Camel Spring Boot 4.7.0",
     "version" : "4.7.0",
-    "runtime" : "SpringBoot",
+    "runtime" : "Spring Boot",
     "fileName" : "camel-springboot/4.7.0/index-99a5deefbc9150a79443a2df4e48f832.json"
   }, {
-    "name" : "Camel SpringBoot 4.6.0",
+    "name" : "Camel Spring Boot 4.6.0",
     "version" : "4.6.0",
-    "runtime" : "SpringBoot",
+    "runtime" : "Spring Boot",
     "fileName" : "camel-springboot/4.6.0/index-33f5696a6454902f7e423820768c384e.json"
   }, {
-    "name" : "Camel SpringBoot 4.4.0",
+    "name" : "Camel Spring Boot 4.4.0",
     "version" : "4.4.0",
-    "runtime" : "SpringBoot",
+    "runtime" : "Spring Boot",
     "fileName" : "camel-springboot/4.4.0/index-24ae530e97fc34af22324219bf81fbe5.json"
   }, {
-    "name" : "Camel SpringBoot 4.4.0.redhat-00033",
+    "name" : "Camel Spring Boot 4.4.0.redhat-00033",
     "version" : "4.4.0.redhat-00033",
-    "runtime" : "SpringBoot",
+    "runtime" : "Spring Boot",
     "fileName" : "camel-springboot/4.4.0.redhat-00033/index-21c89acef23cf9e91b9f9d4a6f942c16.json"
   } ]
 }
